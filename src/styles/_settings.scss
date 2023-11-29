@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+
+    button, a{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+    }
+
+  
+}
+:root {
+    font-size: 10px;
+    --color-primary: #3D6FC4;
+    --color-secondary: #2F395D;
+    --color-accent: #901EFB;
+}
+
