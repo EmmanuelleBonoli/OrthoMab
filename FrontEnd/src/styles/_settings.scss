@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+    button, a{
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        font-family:var(--fontfamilyText)
+    }
+
+  
+}
+:root {
+    font-size: 10px;
+    --fontfamilyTitle: 'Dancing Script', cursive;
+    --fontfamilyText: 'Poppins', sans-serif;
+    --fontfamilyText2: 'Preahvihear', sans-serif;
+    --fontfamilyTitle2: 'Whisper', cursive;
+    --color-primary: #723717;
+    --color-secondary: #bc7b5d;
+    --color-accent: #CFA5F7;
+}
+
